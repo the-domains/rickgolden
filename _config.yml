@@ -1,0 +1,28 @@
+name: RickGolden
+favicon: null
+layout_spectrum: 0.884697838453576
+typography_spectrum: 0.03997957892715931
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7651747344061732
+  lightness: 0.9120545003097504
+  saturation: 0.0726601651404053
+  rhythmicContrast: 0.7346684481017292
+purpose: []
